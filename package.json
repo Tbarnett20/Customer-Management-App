@@ -1,0 +1,12 @@
+{
+  "name": "customerApp",
+  "version": "1.0.0",
+  "description": "Simple customer management app",
+  "main": "app.js",
+  "author": "Terrance Danckert",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
